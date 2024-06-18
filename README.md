@@ -1,9 +1,7 @@
 <h3 align="center">HELLO WORLD!</h3>
 <h6 align="center">I'm Ralph Louis G. Yap</h6>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natruyd123&label=Profile%20views&color=0e75b6&style=flat" alt="natruyd123" /> </p>
-
-#
 
 ### Languages and Tools
 
@@ -17,9 +15,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-<br />
 
-##
+#
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=natruyd123&show_icons=true&locale=en" alt="natruyd123" /></p>
 
