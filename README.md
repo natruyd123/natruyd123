@@ -20,4 +20,4 @@
 
 <p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=natruyd123&show_icons=true&locale=en" alt="natruyd123" /></p>
 
-<p><img align="" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=natruyd123&" alt="natruyd123" /></p>
+<p><img align="" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=natruyd123&" alt="natruyd123" /></p>
