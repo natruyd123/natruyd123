@@ -1,5 +1,5 @@
 <h3 align="center">HELLO WORLD!</h3>
-<h6 align="center">I'm Ralph Louis G. Yap</h6>
+
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natruyd123&label=Profile%20views&color=0e75b6&style=flat" alt="natruyd123" /> </p>
 
